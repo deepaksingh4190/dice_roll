@@ -10,17 +10,11 @@ This is a simple command-line Dice Roller program written in Python. It simulate
 - Calculates total of all dice rolled
 
 ## Output : 
-How many dice would you like to roll? 2
-┌─────────┐
-│ ●     ● │
-│    ●    │
-│ ●     ● │
-└─────────┘
-┌─────────┐
-│ ●     ● │
-│ ●     ● │
-│ ●     ● │
-└─────────┘
-
-Total = 11
+How many dice would you like to roll? 4
+┌─────────┐┌─────────┐┌─────────┐┌─────────┐
+│         ││         ││ ●     ● ││         │
+│    ●    ││    ●    ││ ●     ● ││    ●    │
+│         ││         ││ ●     ● ││         │
+└─────────┘└─────────┘└─────────┘└─────────┘
+total: 9
 
